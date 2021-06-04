@@ -2,4 +2,4 @@
 
 ### Languages
 
-- [Russian language](/translations/rus.md)
+- [Russian language](/devtools/translations/rus.md)
