@@ -11,7 +11,7 @@
 
 | Libraries      | Difficulty | Parse Abilities | Parse Speed |
 | :------------- |:----------:|:---------------:|:-----------:|
-| requests       |    1 / 3   |      1 / 3      |  **3 / 3**  |
+| requests + API |    1 / 3   |      1 / 3      |  **3 / 3**  |
 | requests + bs4 |    2 / 3   |      2 / 3      |    2 / 3    |
 | selenium       |  **3 / 3** |    **3 / 3**    |    1 / 3    |
 
