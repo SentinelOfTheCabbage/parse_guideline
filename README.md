@@ -14,3 +14,7 @@
 | requests       |    1 / 3   |      1 / 3      |  **3 / 3**  |
 | requests + bs4 |    2 / 3   |      2 / 3      |    2 / 3    |
 | selenium       |  **3 / 3** |    **3 / 3**    |    1 / 3    |
+
+### How to use?
+
+For the first you should read about [developer tools](devtools/devtools.md) in your browser. Just then you may practice in parsing.
