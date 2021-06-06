@@ -1,0 +1,1 @@
+{"bool": true, "string": "hell yeah!", "int": 7, "float": 3.1415, "list": [false, "a", 2, 3.0], "dict": {"key": "value"}, "None": null}

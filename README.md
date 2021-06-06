@@ -17,4 +17,6 @@
 
 ### How to use?
 
-For the first you should read about [developer tools](devtools/devtools.md) in your browser. Just then you may practice in parsing.
+For the first time you should read [some_guides](start_guides/guide_list.md) about `some python libraries` and `developer way` browser using . Just then you may practice in parsing =)
+
+GL HF
